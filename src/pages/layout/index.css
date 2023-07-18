@@ -1,0 +1,31 @@
+.layout-left,
+.menu-wrap,
+.img-wrap {
+  width: 276px;
+}
+.top-img {
+  height: 276px;
+}
+.menu-wrap {
+  height: 54px;
+}
+
+.search-box input {
+  width: 300px;
+  height: 41px;
+}
+.layout-right {
+  width: calc(100vw - 276px);
+}
+.bar-color img {
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+}
+
+.list-box {
+  width: 250px;
+}
+.layout-left {
+  min-height: 1440px;
+}

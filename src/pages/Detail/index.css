@@ -1,0 +1,16 @@
+.content-left {
+  width: 300px;
+}
+.content-left img {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+.content-summary {
+  width: 800px;
+  height: 116px;
+}
+.description {
+  width: 420px;
+  height: 40px;
+}

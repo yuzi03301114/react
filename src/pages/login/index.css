@@ -1,0 +1,19 @@
+.login-left {
+  width: 307px;
+  margin-top: 338px;
+  margin-left: 240px;
+}
+.login-right {
+  width: 458px;
+  height: 580px;
+  top: 160px;
+  right: 220px;
+}
+.input {
+  width: 320px;
+  height: 51px;
+}
+.login-button {
+  width: 320px;
+  height: 51px;
+}
